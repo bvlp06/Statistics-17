@@ -1,3 +1,4 @@
-# Estatistica
-Tabela de Distribuição de Frequencia
-Media, Mediana, Moda, Desvio Padrao e Variancia
+# statistics
+Frequency Distribution Table. 
+
+Mean, Median, Mode, Standard Deviation, and Variance.
